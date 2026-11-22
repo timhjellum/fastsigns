@@ -1,4 +1,12 @@
 {
+  "name": "FASTSIGNS Case Study Portfolio",
+  "short_name": "FASTSIGNS",
+  "description": "FASTSIGNS Case Study Portfolio",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#DF212B",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "/images/icon-192.png",
@@ -6,15 +14,15 @@
       "sizes": "192x192"
     },
     {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
       "src": "/images/icon-mask.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
-    },
-    {
-      "src": "/images/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ]
 } 

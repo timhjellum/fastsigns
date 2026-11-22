@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eager-shadow-sunbeam.codepen.app/sitemap.xml

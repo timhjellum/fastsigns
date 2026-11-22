@@ -1,7 +1,7 @@
 (function () {
 	"use strict";
 
-	var DATA_URL = "../skills.json";
+	var DATA_URL = "../fastsigns-skills.json";
 
 	var DATA = {
 		skillsHeader: "Skills Header",
